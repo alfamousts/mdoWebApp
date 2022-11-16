@@ -1,8 +1,5 @@
 # MDO WEB APP
 
-[![Volt React Dashboard Bootstrap 5](https://themesberg.s3.us-east-2.amazonaws.com/public/products/volt-react-dashboard/thumbnail.png)](https://demo.themesberg.com/volt-react-dashboard)
-
-
 ## Tutorial
 
 [tutorial](https://themesberg.com/blog/tutorial/react-dashboard) on how you can install the project, explore the UI elements, create a new page, customize the Sass variables and upload the production code to the server.
@@ -16,24 +13,7 @@ This product is built using the following widely used technologies:
 - Sass preprocessing language
 - NPM & Yarn
 
-## Table of Contents
-
-* [Version](#versions)
-* [Demo](#demo)
-* [Quick Start](#quick-start)
-* [Documentation](#documentation)
-* [File Structure](#file-structure)
-* [Browser Support](#browser-support)
-* [Resources](#resources)
-* [Upgrade to PRO](#upgrade-to-pro)
-* [Reporting Issues](#reporting-issues)
-* [Technical Support or Questions](#technical-support-or-questions)
-* [Licensing](#licensing)
-* [Useful Links](#useful-links)
-
-
 ## Quick start
-
 
 ### Using Yarn
 
